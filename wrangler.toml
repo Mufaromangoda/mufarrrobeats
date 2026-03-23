@@ -1,0 +1,9 @@
+name = "mufarrro"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2026-03-21"
+main = "dist/index.js"
