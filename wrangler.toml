@@ -1,4 +1,6 @@
 name = "mufarrrobeats"
+main = "dist/index.js"
+account_id = "ec4ad45dd996c96efeb70a4aec199cc4"
 type = "webpack"
 route = ''
 zone_id = ''
@@ -6,4 +8,4 @@ usage_model = ''
 compatibility_flags = []
 workers_dev = true
 compatibility_date = "2026-03-21"
-main = "dist/index.js"
+
