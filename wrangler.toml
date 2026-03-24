@@ -1,6 +1,7 @@
 name = "mufarrrobeats"
 main = "dist/index.js"
 account_id = "ec4ad45dd996c96efeb70a4aec199cc4"
+preview_urls = false
 type = "webpack"
 route = ''
 zone_id = ''
